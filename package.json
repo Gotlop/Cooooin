@@ -7,7 +7,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@neynar/nodejs-sdk": "^0.4.1",
+    "@neynar/nodejs-sdk": "^0.3.9",
     "@supabase/supabase-js": "^2.39.5",
     "@vercel/og": "^0.0.1",
     "next": "13.4.19",
